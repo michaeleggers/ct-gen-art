@@ -17,7 +17,7 @@ Die Tastenkombination ```Strg``` (bzw. ```Cmd```) + ```Shift``` + ```p``` öffne
 In diesem Fenster nach ```Create p5js Project``` suchen und mit der Maus anklicken, oder, wenn farblich markiert, mit ```Enter``` bestätigen.
 ![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/create-p5-project.png "Create P5js project")
 
-Ein Fenster öffnet sich. Dies ist der Ort, an dem das P5js Projekt angelegt wird. Wählt den Hauptordnder des Repos.
+Ein Fenster öffnet sich. Dies ist der Ort, an dem das P5js Projekt angelegt wird. Wählt den Hauptordner des Repos.
 
 ## Coden und ausführen
 Links im Explorer solltet ihr nun ein paar mehr Dateien sehen. Für uns interessant ist ```sketch.js```. Diese Datei
