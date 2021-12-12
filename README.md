@@ -23,6 +23,11 @@ Ein Fenster öffnet sich. Dies ist der Ort, an dem das P5js Projekt angelegt wir
 Links im Explorer solltet ihr nun ein paar mehr Dateien sehen. Für uns interessant ist ```sketch.js```. Diese Datei
 wird euren Code enthalten. Wenn ihr darauf klickt und dann ganz rechts unten auf ![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/go-live.png "Go Live")
  klickt, sollte sich
-ein Browserfenster öffnen und euer Code laufen! :snowman: :snowman: :snowman: Gratuliere! :snowman: :snowman: :snowman:
+ein Browserfenster öffnen und euer Code laufen! 
+
+:snowman: :snowman: :snowman: Gratuliere! :snowman: :snowman: :snowman:
+
+## Issues
+Falls etwas nicht so funktioniert wie beschrieben, gebt bitte Bescheid. Danke :snowflake:
 
 
