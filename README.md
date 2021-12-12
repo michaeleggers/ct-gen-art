@@ -20,7 +20,7 @@ In diesem Fenster nach ```Create p5js Project``` suchen und mit der Maus anklick
 Ein Fenster öffnet sich. Dies ist der Ort, an dem das P5js Projekt angelegt wird. Wählt den Hauptordner des Repos.
 
 ## Coden und ausführen
-Links im Explorer solltet ihr nun ein paar mehr Dateien sehen. Für uns interessant ist ```sketch.js```. Diese Datei
+Links im Explorer sind einige Dateien. Für uns interessant ist ```sketch.js```. Diese Datei
 wird euren Code enthalten. Wenn ihr darauf klickt und dann ganz rechts unten auf ![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/go-live.png "Go Live")
  klickt, sollte sich
 ein Browserfenster öffnen und euer Code laufen! 
