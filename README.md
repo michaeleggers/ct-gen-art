@@ -2,20 +2,27 @@
 
 Willkommen zum Praktikum :)
 
-## VSCode Plugin: Live Server
-Für die Entwicklung benötigen wir noch ein Plugin für VSCode: Live Server.
+## VSCode Plugin
+Für die Entwicklung benötigen wir noch ein Plugin für VSCode: [p5.vscode](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).
 Das lässt sich über VSCode selbst herunterladen und installieren:
 
 1. Klick auf **Extensions**, links in der Toolbar.
-2. Suche nach **Live Server** im Suchfeld
+2. Suche nach **p5.vscode** im Suchfeld
 3. Darauf klicken und **Install** auswählen.
 
-![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/liver-server-plugin.png "Live Server Plugin")
+![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/p5vscode-extension.png "P5VSCode Plugin")
 
-Fertig!
+## Anlegen eines P5 Projekts
+Die Tastenkombination ```Strg``` + ```Shift``` + ```p``` öffnet ein Textfenster in VSCode.
+In diesem Fenster nach ```Create p5js Project``` suchen und mit der Maus anklicken, oder, wenn farblich markiert, mit ```Enter``` bestätigen.
+![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/create-p5-project.png "Create P5js project")
 
-## Starten des Programms
-Euer Code kommt in ```src/sketch.js```.  Zum Laufen bekommt ihr diesen mit dem HTTP Live Server plugin für VSCode.
-Rechtsklick auf ```index.html``` -> 'Open with Live Server'. Ein Browserfenster öffnet sich und: :magic_wand:
+Ein Fenster öffnet sich. Dies ist der Ort, an dem das P5js Projekt angelegt wird. Wählt den Hauptordnder des Repos.
 
-![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/starting-live-server.png "Start the program through live server")
+## Coden und ausführen
+Links im Explorer solltet ihr nun ein paar mehr Dateien sehen. Für uns interessant ist ```sketch.js```. Diese Datei
+wird euren Code enthalten. Wenn ihr darauf klickt und dann ganz rechts unten auf ![alt text](https://github.com/michaeleggers/ct-gen-art/blob/main/images/go-live.png "Go Live")
+ klickt, sollte sich
+ein Browserfenster öffnen und euer Code laufen!
+
+
